@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tarea sesion 2</string>
+    <string name="app_titulo">Películas</string>
+    <string name="bienvenidos_al_mundo_cinematogr_fico">Bienvenidos al mundo cinematográfico</string>
+    <string name="tit_btncerrar">Salir</string>
+    <string name="tit_btnanterior">Anterior</string>
+
+
+</resources>
